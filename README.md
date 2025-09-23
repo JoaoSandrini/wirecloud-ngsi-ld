@@ -6,6 +6,8 @@
 
 # WireCloud
 
+This study was financed, in part, by the São Paulo Research Foundation (FAPESP), Brasil. Process Number #2024/23727-8.
+
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
 [![License: AGPLv3+ with classpath-like exception](https://img.shields.io/badge/License-AGPLv3+%20with%20classpath--like%20exception-blue.svg)](./LICENSE)
 [![Docker Status](https://img.shields.io/docker/pulls/fiware/wirecloud.svg)](https://hub.docker.com/r/fiware/wirecloud/)
